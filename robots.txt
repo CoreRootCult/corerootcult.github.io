@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://corerootcult.github.io/sitemap.xml

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>CRC</title>
+	<subtitle>Building AI tools to make identifing vulnerable code easier.</subtitle>
+	<link href="https://corerootcult.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://corerootcult.github.io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-07-15T09:19:42+00:00</updated>
+	<id>https://corerootcult.github.io/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Hello World</title>
+		<published>2022-07-15T09:19:42+00:00</published>
+		<updated>2022-07-15T09:19:42+00:00</updated>
+		<link href="https://corerootcult.github.io/news/hello-world/" type="text/html"/>
+		<id>https://corerootcult.github.io/news/hello-world/</id>
+		<content type="html">&lt;h2 id=&quot;core-root-cult&quot;&gt;Core Root Cult&lt;&#x2F;h2&gt;
+&lt;p&gt;We are building the next generation of security tools. The driving mission behind our tools is to make finding vulnerable and exploitable code as easy as possible. This goes for both black and white box testing. As a result, our tools live at the intersection of security, automation and AI. &lt;&#x2F;p&gt;
+&lt;p&gt;As the world becomes increasing more digitized, from factories to homes, security becomes ever more important. Attacks both simple and sophisticated have been increasing rapidly year over year, yet we see that the need for security experts is vastly unmet. To help fill this gap our projects are built to enhance existing teams and be as automated as possible.&lt;&#x2F;p&gt;
+&lt;p&gt;In order to accomplish this, we are applying the latest in AI research to the security field with a focus on red team tools. More importantly than developing these tools is we are making them open source so they can be extended and adopted by everyone. We also hope that by providing open datasets it inspires further research and applications in this important field.&lt;&#x2F;p&gt;
+&lt;p&gt;Early next year we are going to be releasing the open-source versions of our tools. Currently we are focusing on improving the documentation and fixing some of the hacky implementations that were there just to get things working. While we want to get these tools into the community’s hands as soon as possible it is also a balancing act of creating a solid foundation for the community to build upon. In our experience the open-source projects that succeed are the ones with clear documentation and an easy path to contribute to. We hope that by delaying the release a bit and polishing these aspects we are able to build a stronger community from the beginning.&lt;&#x2F;p&gt;
+&lt;p&gt;Any questions or comments feel free to join our &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;orgs&#x2F;CoreRootCult&#x2F;discussions&quot;&gt;github discussions&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Slogoth</title>
+		<published>2022-07-15T08:50:45+00:00</published>
+		<updated>2022-07-15T08:50:45+00:00</updated>
+		<link href="https://corerootcult.github.io/authors/slogoth/" type="text/html"/>
+		<id>https://corerootcult.github.io/authors/slogoth/</id>
+		<content type="html">&lt;p&gt;Member of the &lt;strong&gt;CRC&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;slogoth&quot;&gt;@slogoth&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
